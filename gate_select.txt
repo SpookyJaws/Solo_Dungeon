@@ -1,0 +1,12 @@
+1
+System : Choose a Gate Rank
+
+POGS    RANK    -    Level (80 - 100)
+POG
+POGA    RANK    -    Level (60 - 80)
+POG
+POGB    RANK    -    Level (30 - 60)
+POG
+POGD    RANK    -    Level (15 - 30)
+POG
+POGF    RANK    -    Level (01 - 15)

@@ -1,0 +1,14 @@
+You have entered the HUB
+
+heal_check
+1
+
+SYSTEM:    What do you wish to do player?
+
+POG1) Quests                                                              2) Player
+POG
+POG3) Gates                                                                 4) Shop
+POG
+POG5) Options                                                            6) Help
+POG
+POG7) Save                                                                  8) Title
