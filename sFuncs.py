@@ -6,9 +6,9 @@ from os import system
 def t(Time = 0):
     sleep(Time)
 def clr(Time = 1):
-   #system('clr')
+   system('clr')
    #unused for now since im working on tab ; - ;
-   print('\n' * 80)
+   #print('\n' * 80)
    t(Time)
 def sLoad():
     for i in range (2):
@@ -21,7 +21,7 @@ def sLoad():
 def printer(text,x='',y=0, space = '', Time = 0.05):
     for i in range(len(text)):
         print(text[i], end = space)
-        t(Time)
+        #changed it since it doesnt work as intended
     print('\n')
      
 #huge ass function incoming    
